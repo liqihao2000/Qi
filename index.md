@@ -1,4 +1,4 @@
-## Welcome to Qi's Pages
+## Welcome to Qi Li's Pages
 
 ### Research
 
@@ -13,6 +13,8 @@
 2. Q Li, L Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. *Computer Physics Communications, 107290.*
 
 3. Y Wang, Q Li, L Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. *Applied Mathematics Letters 95, 104-113.*
+
+{: reversed="reversed"}
 
 
 
