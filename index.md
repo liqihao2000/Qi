@@ -8,6 +8,20 @@
 
 ### Publications
 
+- Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model
+Q Li, X Li, X Yang, L Mei
+Journal of Computational and Applied Mathematics 383, 113122
+
+- Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures
+Q Li, L Mei
+Computer Physics Communications, 107290
+
+- A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations
+Y Wang, Q Li, L Mei
+Applied Mathematics Letters 95, 104-113
+
+
+
 ### Teaching
 
 ### Notes
