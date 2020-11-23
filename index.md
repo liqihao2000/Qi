@@ -9,13 +9,13 @@
 ### Publications
 
 <ol reversed>
-	<li> Qi Li, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122. </i>  </li>
-	<li> Qi Li, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
-	<li> Ying Wang, Qi Li, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113. </i>  </li>	
-	<li> Qi Li, Liquan Mei, Xiaofeng Yang, Yibao Li. Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation. <i> Advances in Computational Mathematics 45 (3), 1551-1580 </i>  </li>	
-	<li> Ying Wang, Liquan Mei, Qi Li, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278</i>  </li>	
-	<li> Qi Li, Liquan Mei, Bo You. A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model. <i> Applied Numerical Mathematics 134, 46-65 </i>  </li>	
-	<li> Qi Li, Liquan Mei. Local momentum-preserving algorithms for the GRLW equation. <i> Applied Mathematics and Computation 330, 77-92 </i>  </li>
+    <li> Qi Li, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
+	<li> Qi Li, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122, 2021 </i>  </li>
+	<li> Ying Wang, Qi Li, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113, 2019 </i>  </li>	
+	<li> Qi Li, Liquan Mei, Xiaofeng Yang, Yibao Li. Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation. <i> Advances in Computational Mathematics 45 (3), 1551-1580, 2019 </i>  </li>	
+	<li> Ying Wang, Liquan Mei, Qi Li, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278, 2019</i>  </li>	
+	<li> Qi Li, Liquan Mei, Bo You. A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model. <i> Applied Numerical Mathematics 134, 46-65, 2018 </i>  </li>	
+	<li> Qi Li, Liquan Mei. Local momentum-preserving algorithms for the GRLW equation. <i> Applied Mathematics and Computation 330, 77-92, 2018 </i>  </li>
 
 </ol>
 
