@@ -9,9 +9,25 @@
 ### Publications
 
 <ol reversed>
-	<li> Q Li, X Li, X Yang, L Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122. </i>  </li>
-	<li> Q Li, L Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
-	<li> Y Wang, Q Li, L Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113. </i>  </li>
+	<li> Qi Li, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122. </i>  </li>
+	<li> Qi Li, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
+	<li> Ying Wang, Qi Li, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113. </i>  </li>
+	
+	Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation
+Q Li, L Mei, X Yang, Y Li
+Advances in Computational Mathematics 45 (3), 1551-1580
+	
+	Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation
+Y Wang, L Mei, Q Li, L Bu
+Applied Numerical Mathematics 136, 257-278
+	
+	A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model
+Q Li, L Mei, B You
+Applied Numerical Mathematics 134, 46-65
+	
+	Local momentum-preserving algorithms for the GRLW equation
+Q Li, L Mei
+Applied Mathematics and Computation 330, 77-92
 
 
 </ol>
