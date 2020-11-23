@@ -2,9 +2,20 @@
 
 ### Research
 
+- Numerical analysis
+- Phase field
+- Finite element method
+- Spectral method
+
 ### Employment
 
+- Chang'an University
+
 ### Education
+
+- Lanzhou University
+- Lanzhou University
+- Xi'an Jiaotong University
 
 ### Publications
 
