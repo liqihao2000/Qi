@@ -15,12 +15,12 @@
 
 <ul>
 <li> Ph.D. Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020. <br>
-  + Advisor: Prof. Liquan Mei <br>
-  + Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.</li> 
+  <li>  Advisor: Prof. Liquan Mei  </li>  <br>
+  <li>  Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.  </li>  </li> 
 <li> Ph.D. joint student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020. <br>
-  + Advisor: Xiaofeng Yang </li> 
+  <li>  Advisor: Xiaofeng Yang  </li>  </li> 
 <li> M.S. Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
-  + Advisor: Prof. Yubin Zhou </li> 
+  <li>  Advisor: Prof. Yubin Zhou  </li>  </li> 
 <li> B.s. Mathematics and Applied Mathematics, Lanzhou University, Aug. 2009 --- Jul. 2013. </li> 
 
 </ul>
