@@ -17,7 +17,7 @@
   Advisor: Prof. Liquan Mei
   Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.
   
- -Joint PhD. student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020 
+- Joint PhD. student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020 
   Advisor: Xiaofeng Yang
   
 - M. S.  Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
