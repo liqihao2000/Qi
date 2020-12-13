@@ -9,12 +9,13 @@
 
 ### Employment
 
-- Aug, 2020 —— present, Lecture, school of Science, Chang'an University.
+- Aug. 2020 —— present, Lecture, School of Science, Chang'an University.
 
 ### Education
 
 - Ph.D. Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 —— Jul. 2020.
   Advisor: Prof. Liquan Mei
+  
   Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.
   
 - Joint PhD. student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 —— May. 2020 
