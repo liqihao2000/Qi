@@ -27,13 +27,13 @@
   </ul>
   </li>
 	
-<li> M.S. Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
+<li> M. S. Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
   <ul style="list-style-type:circle">
   <li>  Advisor: Prof. Yubin Zhou  </li> 
   </ul>
   </li>
 	
-<li> B.s. Mathematics and Applied Mathematics, Lanzhou University, Aug. 2009 --- Jul. 2013. </li> 
+<li> B. S. Mathematics and Applied Mathematics, Lanzhou University, Aug. 2009 --- Jul. 2013. </li> 
 
 </ul>
 
