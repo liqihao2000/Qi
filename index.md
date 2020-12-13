@@ -13,8 +13,8 @@
 
 ### Education
 
-- Ph.D.
-- M.S.
+- Ph.D. Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020.
+- M.S. Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
 - B.s.
 
 
