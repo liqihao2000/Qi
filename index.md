@@ -3,9 +3,9 @@
 ### Research
 
 - Numerical analysis and scientific computing
-- Phase field model
-- Finite element method
-- Spectral method
+- Structure preserving algorithm for nonlinear dispersion equation
+- Phase field model (diffusion interface model) and efficient numerical algorithm for two-phase flow problems
+- Finite element method,  Spectral method, Structure-preserving algorithm
 
 ### Employment
 
