@@ -21,7 +21,7 @@
 
 <ol reversed>
     <li> <strong>Qi Li</strong>, Liquan Mei. Numerical approximation of the two-component PFC models for binary colloidal crystals: efficient, decoupled, and second-order unconditionally energy stable schemes. <i> Journal of Scientific Computing, (Under Review). </i> </li> 
-    <li> <strong>Qi Li</strong>, Liquan Mei, Yibao Li. Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction. <i> Journal of Computational and Applied Mathematics, (Under Review). </i> </li> 
+    <li> <strong>Qi Li</strong>, Liquan Mei, Yibao Li. Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction. <i> Journal of Computational and Applied Mathematics, (Accepted). </i> </li> 
     <li> <strong>Qi Li</strong>, Xiaofeng Yang, Liquan Mei. Efficient numerical scheme for the anisotropic modified phase-field crystal model with a strong nonlinear vacancy potential. <i> Communications in Mathematical Sciences, (Accepted). </i> </li>    
     <li> <strong>Qi Li</strong>, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
 	<li> <strong>Qi Li</strong>, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122, 2021 </i>  </li>
