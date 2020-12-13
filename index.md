@@ -21,7 +21,7 @@
   </ul>
 </li> 
 	
-<li> <strong>Ph.D.</strong> joint student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020. <br>
+<li> <strong>Ph.D. joint student</strong>, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020. <br>
   <ul style="list-style-type:circle">
   <li>  Advisor: Xiaofeng Yang  </li>  
   </ul>
