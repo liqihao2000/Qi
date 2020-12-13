@@ -15,7 +15,7 @@
 
 <ul>
 <li> Ph.D. Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020. <br>
-  <ul style="list-style-type:circle">
+  <ul>
   <ul>
   <li>  Advisor: Prof. Liquan Mei  </li> 
   <li>  Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.  </li>  
