@@ -38,7 +38,7 @@
 </ul>
 
 ### Publications
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=-jCIF8cAAAAJ&view_op=list_works&sortby=pubdate)  [ResearchGate](https://www.researchgate.net/profile/Qi_Li70) 
+[GoogleScholar](https://scholar.google.com/citations?hl=en&user=-jCIF8cAAAAJ&view_op=list_works&sortby=pubdate)  [ResearchGate](https://www.researchgate.net/profile/Qi_Li70) 
 
 <ol reversed>
    	<li> <strong>Qi Li</strong>, Liquan Mei. Numerical approximation of the two-component PFC models for binary colloidal crystals: efficient, decoupled, and second-order unconditionally energy stable schemes. <i> Journal of Scientific Computing, (Under Review). </i> </li> 
