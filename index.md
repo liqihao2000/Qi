@@ -2,28 +2,37 @@
 
 ### Research
 
-- Numerical analysis
-- Phase field
+- Numerical analysis and scientific computing
+- Phase field model
 - Finite element method
 - Spectral method
 
 ### Employment
 
-- Chang'an University
+- Aug, 2020 --- present, Lecture, school of Science, Chang'an University.
 
 ### Education
 
-- Lanzhou University
-- Lanzhou University
-- Xi'an Jiaotong University
+- Ph.D. Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020.
+  Advisor: Prof. Liquan Mei
+  Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.
+  
+ -Joint PhD. student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020 
+  Advisor: Xiaofeng Yang
+  
+- M. S.  Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
+  Advisor: Prof. Yubin Zhou
+   
+- B. S. Mathematics and Applied Mathematics, Lanzhou University, Aug. 2009 --- Jul. 2013.
+
 
 ### Publications
 
 <ol reversed>
-    <li> <strong>Qi Li</strong>, Liquan Mei. Numerical approximation of the two-component PFC models for binary colloidal crystals: efficient, decoupled, and second-order unconditionally energy stable schemes. <i> Journal of Scientific Computing, (Under Review). </i> </li> 
-    <li> <strong>Qi Li</strong>, Liquan Mei, Yibao Li. Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction. <i> Journal of Computational and Applied Mathematics, (Accepted). </i> </li> 
-    <li> <strong>Qi Li</strong>, Xiaofeng Yang, Liquan Mei. Efficient numerical scheme for the anisotropic modified phase-field crystal model with a strong nonlinear vacancy potential. <i> Communications in Mathematical Sciences, (Accepted). </i> </li>    
-    <li> <strong>Qi Li</strong>, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
+   	<li> <strong>Qi Li</strong>, Liquan Mei. Numerical approximation of the two-component PFC models for binary colloidal crystals: efficient, decoupled, and second-order unconditionally energy stable schemes. <i> Journal of Scientific Computing, (Under Review). </i> </li> 
+   	<li> <strong>Qi Li</strong>, Liquan Mei, Yibao Li. Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction. <i> Journal of Computational and Applied Mathematics, (Accepted). </i> </li> 
+   	<li> <strong>Qi Li</strong>, Xiaofeng Yang, Liquan Mei. Efficient numerical scheme for the anisotropic modified phase-field crystal model with a strong nonlinear vacancy potential. <i> Communications in Mathematical Sciences, (Accepted). </i> </li>    
+   	<li> <strong>Qi Li</strong>, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> </li>
 	<li> <strong>Qi Li</strong>, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122, 2021 </i>  </li>
 	<li> Ying Wang, <strong>Qi Li</strong>, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113, 2019 </i>  </li>	
 	<li> Ying Wang, Liquan Mei, <strong>Qi Li</strong>, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278, 2019</i>  </li>    
@@ -38,6 +47,9 @@
 
 
 ### Teaching
+
+- Spring 2021:
+	- Finite element method
 
 ### Notes
 
