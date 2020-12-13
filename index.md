@@ -24,12 +24,12 @@
 <li> Ph.D. joint student, Computational Mathematics, University of South Carolina, Columbia, Sep. 2018 --- May. 2020. <br>
   <ul>
   <li>  Advisor: Xiaofeng Yang  </li>  
-  <\ul>
+  </ul>
   </li> 
 <li> M.S. Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
   <ul>
   <li>  Advisor: Prof. Yubin Zhou  </li> 
-  <\ul>
+  </ul>
   </li> 
 <li> B.s. Mathematics and Applied Mathematics, Lanzhou University, Aug. 2009 --- Jul. 2013. </li> 
 
