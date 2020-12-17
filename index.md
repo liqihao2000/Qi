@@ -11,25 +11,26 @@
 
 - Aug. 2020 --- present, Lecture, School of Science, Chang'an University.
 
-### Education
+
+<h3>Education</h3>
 
 <ul>
 <li> <strong>Ph.D.</strong> Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020. <br>
   <ul style="list-style-type:circle">
-  <li>  Advisor: Prof. Liquan Mei  </li> 
-  <li>  Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.  </li>  
+  <li> Advisor: Prof. </i> <a href="http://gr.xjtu.edu.cn/web/lqmei/1" target="_blank"><u>Liquan Mei</u></a> </li>  </li>   
+  <li> Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.  </li>  
   </ul>
 </li> 
 	
 <li> <strong>Ph.D. joint student</strong>, Computational Mathematics, University of South Carolina, Columbia, SC, USA. Sep. 2018 --- May. 2020. <br>
   <ul style="list-style-type:circle">
-  <li>  Advisor: Xiaofeng Yang  </li>  
+  <li> Advisor: Prof. </i> <a href="http://people.math.sc.edu/xfyang/" target="_blank"><u>Xiaofeng Yang</u></a> </li>  </li>
   </ul>
   </li>
 	
 <li> <strong>M. S.</strong> Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
   <ul style="list-style-type:circle">
-  <li>  Advisor: Prof. Yubin Zhou  </li> 
+  <li> Advisor: Prof. Yubin Zhou  </li> 
   </ul>
   </li>
 	
@@ -40,7 +41,7 @@
 
 <h3>Publications</h3>
 
-<a href="https://scholar.google.com/citations?hl=en&user=-jCIF8cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><u>GoogleScholar</u></a>      <a href="https://www.researchgate.net/profile/Qi_Li70" target="_blank"><u>ResearchGate</u></a>
+<a href="https://scholar.google.com/citations?hl=en&user=-jCIF8cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><u>GoogleScholar</u></a>&nbsp;<a href="https://www.researchgate.net/profile/Qi_Li70" target="_blank"><u>ResearchGate</u></a>
 
 <ol reversed>
    	<li> <strong>Qi Li</strong>, Liquan Mei. Numerical approximation of the two-component PFC models for binary colloidal crystals: efficient, decoupled, and second-order unconditionally energy stable schemes. <i> Journal of Scientific Computing, (Under Review). </i> </li> 
@@ -48,8 +49,8 @@
    	<li> <strong>Qi Li</strong>, Xiaofeng Yang, Liquan Mei. Efficient numerical scheme for the anisotropic modified phase-field crystal model with a strong nonlinear vacancy potential. <i> Communications in Mathematical Sciences, (Accepted). </i> </li>    
    	<li> <strong>Qi Li</strong>, Liquan Mei. Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn–Hilliard system in copolymer/homopolymer mixtures. <i> Computer Physics Communications, 107290. </i> <a href="https://doi.org/10.1016/j.cpc.2020.107290" target="_blank"><u>Link</u></a> </li>
 	<li> <strong>Qi Li</strong>, Xi Li, Xiaofeng Yang, Liquan Mei. Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model. <i> Journal of Computational and Applied Mathematics, 383, 113122, 2021. </i> <a href="https://doi.org/10.1016/j.cam.2020.113122" target="_blank"><u>Link</u></a> </li>
-	<li> Ying Wang, <strong>Qi Li</strong>, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113, 2019.</i> <a href="https://doi.org/10.1016/j.aml.2019.03.032" target="_blank"><u>Link</u></a> </li>
-	<li> Ying Wang, Liquan Mei, <strong>Qi Li</strong>, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278, 2019.</i> <a href="https://doi.org/10.1016/j.apnum.2018.10.012" target="_blank"><u>Link</u></a> </li> 
+	<li> Ying Wang, <strong>Qi Li</strong>, Liquan Mei. A linear, symmetric and energy-conservative scheme for the space-fractional Klein–Gordon–Schrödinger equations. <i> Applied Mathematics Letters, 95, 104-113, 2019. </i> <a href="https://doi.org/10.1016/j.aml.2019.03.032" target="_blank"><u>Link</u></a> </li>
+	<li> Ying Wang, Liquan Mei, <strong>Qi Li</strong>, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278, 2019. </i> <a href="https://doi.org/10.1016/j.apnum.2018.10.012" target="_blank"><u>Link</u></a> </li> 
 	<li> <strong>Qi Li</strong>, Liquan Mei, Xiaofeng Yang, Yibao Li. Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation. <i> Advances in Computational Mathematics 45 (3), 1551-1580, 2019. </i> <a href="https://doi.org/10.1007/s10444-019-09678-w" target="_blank"><u>Link</u></a> </li>		
 	<li> <strong>Qi Li</strong>, Liquan Mei, Bo You. A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model. <i> Applied Numerical Mathematics 134, 46-65, 2018. </i> <a href="https://doi.org/10.1016/j.apnum.2018.07.003" target="_blank"><u>Link</u></a> </li>
 	<li> <strong>Qi Li</strong>, Liquan Mei. Local momentum-preserving algorithms for the GRLW equation. <i> Applied Mathematics and Computation 330, 77-92, 2018. </i> <a href="https://doi.org/10.1016/j.amc.2018.02.033" target="_blank"><u>Link</u></a> </li>
