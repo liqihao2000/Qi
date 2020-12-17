@@ -50,7 +50,7 @@
 	<li> Ying Wang, Liquan Mei, <strong>Qi Li</strong>, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. <i> Applied Numerical Mathematics 136, 257-278, 2019</i>  </li>    
 	<li> <strong>Qi Li</strong>, Liquan Mei, Xiaofeng Yang, Yibao Li. Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation. <i> Advances in Computational Mathematics 45 (3), 1551-1580, 2019 </i>  </li>		
 	<li> <strong>Qi Li</strong>, Liquan Mei, Bo You. A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model. <i> Applied Numerical Mathematics 134, 46-65, 2018 </i>  </li>	
-	<li> <strong>Qi Li</strong>, Liquan Mei. <a href="https://doi.org/10.1016/j.amc.2018.02.033" target="_blank">Local momentum-preserving algorithms for the GRLW equation.</a> <i> Applied Mathematics and Computation 330, 77-92, 2018 </i>  </li>
+	<li> <strong>Qi Li</strong>, Liquan Mei. Local momentum-preserving algorithms for the GRLW equation. <i> Applied Mathematics and Computation 330, 77-92, 2018 </i> <a href="https://doi.org/10.1016/j.amc.2018.02.033" target="_blank">link</a> </li>
 
 </ol>
 
