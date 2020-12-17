@@ -37,11 +37,9 @@
 
 </ul>
 
-### Publications
-<h1>Publications</h1>
-<h2>Publications</h2>
+
 <h3>Publications</h3>
-<h4>Publications</h4>
+
 <a href="https://scholar.google.com/citations?hl=en&user=-jCIF8cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><u>GoogleScholar</u></a>      <a href="https://www.researchgate.net/profile/Qi_Li70" target="_blank"><u>ResearchGate</u></a>
 
 <ol reversed>
