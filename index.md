@@ -17,20 +17,20 @@
 <ul>
 <li> <strong>Ph.D.</strong> Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 --- Jul. 2020. <br>
   <ul style="list-style-type:circle">
-  <li> Advisor: Prof. </i> <a href="http://gr.xjtu.edu.cn/web/lqmei/1" target="_blank"><u>Liquan Mei</u></a> </li> </li>   
+  <li> Advisor: Prof. <i> <a href="http://gr.xjtu.edu.cn/web/lqmei/1" target="_blank"><u>Liquan Mei</u></a> </i> </li>   
   <li> Dissertation title: Efficient Numerical Algorithms for the Phase-field Crystal Model and its Multi-component Problem.  </li>  
   </ul>
 </li> 
 	
 <li> <strong>Ph.D. joint student</strong>, Computational Mathematics, University of South Carolina, Columbia, SC, USA. Sep. 2018 --- May. 2020. <br>
   <ul style="list-style-type:circle">
-  <li> Advisor: Prof. </i> <a href="http://people.math.sc.edu/xfyang/" target="_blank"><u>Xiaofeng Yang</u></a> </li> </li>
+  <li> Advisor: Prof. <i> <a href="http://people.math.sc.edu/xfyang/" target="_blank"><u>Xiaofeng Yang</u></a> </i> </li>  
   </ul>
   </li>
 	
 <li> <strong>M. S.</strong> Computational Mathematics, Lanzhou University, Sept. 2013 --- Jul. 2016.
   <ul style="list-style-type:circle">
-  <li> Advisor: Prof. </i> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=85" target="_blank"><u>Yubin Zhou</u></a> </li> </li>
+  <li> Advisor: Prof. <i> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=85" target="_blank"><u>Yubin Zhou</u></a> </i> </li>  
   </ul>
   </li>
 	
