@@ -62,6 +62,8 @@
 
 - Spring 2021:
 	- Finite element method
+	- Numerical method
+
 
 
 
