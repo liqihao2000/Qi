@@ -60,6 +60,8 @@
 
 ### Teaching
 
+-Fall 2021:
+	- Numerical analysis
 - Spring 2021:
 	- Finite element method
 	- Numerical method
