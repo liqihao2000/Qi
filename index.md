@@ -64,17 +64,17 @@
 
 ### Teaching
 - Fall 2022:
-	- Numerical analysis
-	- Linear algebra
+	- Numerical Analysis
+	- Linear Algebra
 - Spring 2022:
-	- Finite element method
-	- Numerical analysis
+	- Finite Element Method
+	- Numerical Analysis
 
 - Fall 2021:
-	- Numerical analysis
+	- Numerical Analysis
 - Spring 2021:
-	- Finite element method
-	- Numerical method
+	- Finite Element Method
+	- Numerical Method
 
 
 
