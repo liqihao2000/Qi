@@ -9,7 +9,7 @@
 
 ### Employment
 
-- Dec. 2022 --- Associate Professor, Lecture, School of Science, Chang'an University.
+- Dec. 2022 --- Associate Professor, School of Science, Chang'an University.
 - Aug. 2020 --- Dec. 2022, Lecture, School of Science, Chang'an University.
 
 
