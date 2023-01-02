@@ -9,7 +9,8 @@
 
 ### Employment
 
-- Aug. 2020 --- present, Lecture, School of Science, Chang'an University.
+- Dec. 2022 --- Associate Professor, Lecture, School of Science, Chang'an University.
+- Aug. 2020 --- Dec. 2022, Lecture, School of Science, Chang'an University.
 
 
 <h3>Education</h3>
@@ -63,6 +64,9 @@
 
 
 ### Teaching
+- Spring 2023:
+	- Finite Element Method
+	- Numerical Method
 - Fall 2022:
 	- Numerical Analysis
 	- Linear Algebra
